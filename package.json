@@ -1,0 +1,20 @@
+{
+  "name": "Friend-Finder",
+  "version": "1.0.0",
+  "description": "Express.js Friend Finder App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebake44/Friend-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebake44/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/rebake44/Friend-Finder#readme"
+}
